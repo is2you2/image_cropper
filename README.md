@@ -7,7 +7,7 @@ Windows: 준비중
 
 OS X: 준비중
 
-Linux: 준비중
+Linux: [Linux-64bit.zip 파일](https://github.com/is2you2/image_cropper/raw/master/exports/image_cropper_linux64.zip)
 
 ## 사용방법
 ![crop infomation](./tutorials/tutorial_01.png)
