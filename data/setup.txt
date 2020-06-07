@@ -1,0 +1,4 @@
+posX=147
+posY=146
+sizeX=652
+sizeY=489
